@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.11.1](https://github.com/eslint-stylistic/eslint-stylistic/compare/v2.11.0...v2.11.1) (2024-11-20)
+
+
+### Bug Fixes
+
+* **comma-style:** handles comma after default import and trailing comma ([#600](https://github.com/eslint-stylistic/eslint-stylistic/issues/600)) ([2d8d8ce](https://github.com/eslint-stylistic/eslint-stylistic/commit/2d8d8ce57a12b597de1cffab8e9784b8e20fca15))
+
 ## [2.11.0](https://github.com/eslint-stylistic/eslint-stylistic/compare/v2.10.1...v2.11.0) (2024-11-19)
 
 
